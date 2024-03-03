@@ -1,5 +1,5 @@
 /node_modules
-link.txt
+/link.txt
 package-lock.json
 package.json
 quizz app workspace.code-workspace
